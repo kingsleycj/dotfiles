@@ -70,8 +70,9 @@ git clone https://github.com/zsh-users/zsh-autosuggestions \
 ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 ```
 Update your .zshrc plugins list:
-> plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
-
+```bash
+ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+```
 
 ## 🔒 SSH Setup Notes (for GitHub Push)
 If you recently set up your system or reinstalled your OS, make sure to:
